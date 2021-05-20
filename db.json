@@ -1,7 +1,9 @@
 {
-  "id": "5bbf076a3e41866af7032733",
-  "voiceActor":"Yuka Iguchi",
-  "characterName":"Tsukihi Araragi",
-  "voiceText":"ふたご座？",
-  "voiceSrc": "https://dev-voice.voistock.com/mp3play.php?id=5bbf076a3e41866af7032733&skey=40052021490420&scode=4a52ff27b820e6aa154a6328b77f72960018bd25&uid=&from=website"
+  "info": {
+    "id": "5bbf076a3e41866af7032733",
+      "voiceActor":"Yuka Iguchi",
+      "characterName":"Tsukihi Araragi",
+      "voiceText":"ふたご座？",
+      "voiceSrc": "https://dev-voice.voistock.com/mp3play.php?id=5bbf076a3e41866af7032733&skey=40052021490420&scode=4a52ff27b820e6aa154a6328b77f72960018bd25&uid=&from=website"
+  }
 }
